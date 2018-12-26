@@ -1,0 +1,5 @@
+check process watcher
+  with pidfile /var/vcap/sys/run/jumpbox/watcher.pid
+  start program "/var/vcap/jobs/jumpbox/bin/jumpbox_ctl start"
+  stop program "/var/vcap/jobs/jumpbox/bin/jumpbox_ctl stop"
+  group vcap

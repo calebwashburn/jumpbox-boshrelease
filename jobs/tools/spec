@@ -1,0 +1,9 @@
+---
+name: tools
+packages:
+  - tools
+
+templates:
+  bin/run: bin/run
+
+properties: {}

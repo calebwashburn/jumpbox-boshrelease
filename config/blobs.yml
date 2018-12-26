@@ -1,0 +1,8 @@
+tools/bins/pivnet-cli:
+  size: 9830426
+  object_id: d1c3a5f7-8fd8-4db6-52a1-38ad9b018b21
+  sha: 10a3faace933eb5667b8ad5f7399ec8a19898732
+tools/git-2.14.1.tar.gz:
+  size: 6987933
+  object_id: adc9a931-7d5e-4d9f-6a48-b1affd23b5a6
+  sha: e173270a5f224078e3f6c639937da5bd84045225
